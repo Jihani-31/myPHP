@@ -4,7 +4,7 @@
     <title>LOG IN</title>
 </head>
 <body>
-    <form action="log.php" method="post">
+    <form action="process.php" method="post">
         Username:<input type="text" name="username" id="username"><br>
         Password:<input type="password" name="pword" id="password"><br>
         <input type="submit" value="Log In" name="submit">
